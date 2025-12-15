@@ -13,12 +13,26 @@ export default function DraftingPanel() {
       <h3 className="font-semibold mb-2">Automated Drafting</h3>
 
       <div className="flex gap-3 mb-3">
-        <button onClick={() => setEmail(generateDraftEmail())} className="btn">
+        <button
+          onClick={() => {
+            setEmail(generateDraftEmail());
+            alert("Email drafted successfully and is ready for review.");
+          }}
+          className="btn"
+        >
           Draft Email
         </button>
-        <button onClick={() => setQuote(generateDraftQuote())} className="btn">
+
+        <button
+          onClick={() => {
+            setQuote(generateDraftQuote());
+            alert("Quote drafted successfully and is ready for review.");
+          }}
+          className="btn"
+        >
           Draft Quote
         </button>
+
       </div>
 
       <DraftViewer email={email} quote={quote} />
