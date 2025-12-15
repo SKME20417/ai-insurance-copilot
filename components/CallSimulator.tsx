@@ -5,9 +5,10 @@ import { simulateTranscription } from "../lib/aiSimulator";
 export default function CallSimulator() {
   return (
     <div
-      id="live-call"
-      className="bg-white p-4 rounded shadow col-span-3"
-    >
+  id="live-call"
+  className="bg-white p-4 rounded shadow col-span-3 self-start"
+>
+
 
       <h3 className="font-semibold mb-2">Live Call Simulator</h3>
       <button

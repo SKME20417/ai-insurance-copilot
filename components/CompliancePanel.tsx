@@ -10,10 +10,11 @@ export default function CompliancePanel() {
   }, []);
 
   return (
-    <div
+ <div
   id="compliance"
-  className="bg-red-50 p-4 rounded shadow"
+  className="bg-red-50 p-4 rounded shadow self-start"
 >
+
 
       <h3 className="font-semibold mb-2 text-red-700">Compliance Flags</h3>
       <ul className="list-disc ml-4 text-sm text-red-600">

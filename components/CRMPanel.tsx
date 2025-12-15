@@ -3,10 +3,11 @@ import { syncCRM } from "../lib/aiSimulator";
 
 export default function CRMPanel() {
   return (
-    <div
+<div
   id="crm"
-  className="bg-white p-4 rounded shadow"
+  className="bg-white p-4 rounded shadow self-start"
 >
+
 
       <h3 className="font-semibold mb-2">CRM Integration (Salesforce/HubSpot)</h3>
       <button onClick={syncCRM} className="px-4 py-2 bg-indigo-600 text-white rounded">

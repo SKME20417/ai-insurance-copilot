@@ -10,10 +10,11 @@ export default function TranscriptionPanel() {
   }, []);
 
   return (
-    <div
-      id="transcription"
-      className="bg-white p-4 rounded shadow col-span-3"
-    >
+   <div
+  id="transcription"
+  className="bg-white p-4 rounded shadow col-span-3 self-start"
+>
+
 
       <h3 className="font-semibold mb-2">Real-Time Transcription</h3>
       <p className="text-sm bg-gray-100 p-3 rounded h-32 overflow-auto">

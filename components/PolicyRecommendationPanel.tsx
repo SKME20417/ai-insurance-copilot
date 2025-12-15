@@ -10,7 +10,8 @@ export default function PolicyRecommendationPanel() {
   }, []);
 
   return (
-    <div className="bg-white p-4 rounded shadow">
+   <div className="bg-white p-4 rounded shadow self-start">
+
       <h3 className="font-semibold mb-2">Policy Recommendations (Bedrock)</h3>
       <ul className="list-disc ml-4 text-sm">
         {policies.map((p, i) => (

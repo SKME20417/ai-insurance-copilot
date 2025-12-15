@@ -10,7 +10,7 @@ import DataLoader from "./DataLoader";
 
 export default function AgentDashboard() {
   return (
-    <div className="p-6 grid grid-cols-3 gap-4 overflow-auto">
+    <div className="p-6 grid grid-cols-3 gap-4 auto-rows-min overflow-y-auto">
       <DataLoader />
       <CallSimulator />
       <TranscriptionPanel />

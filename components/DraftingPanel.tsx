@@ -8,7 +8,8 @@ export default function DraftingPanel() {
   const [quote, setQuote] = useState("");
 
   return (
-    <div className="bg-white p-4 rounded shadow col-span-3">
+    <div className="bg-white p-4 rounded shadow col-span-3 self-start">
+
       <h3 className="font-semibold mb-2">Automated Drafting</h3>
 
       <div className="flex gap-3 mb-3">

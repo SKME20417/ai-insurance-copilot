@@ -12,7 +12,8 @@ export default function DataPreviewTable({ data }: { data: any[] }) {
   ];
 
   return (
-    <div className="overflow-auto border rounded">
+    <div className="max-h-64 overflow-y-auto border rounded">
+
       <table className="min-w-full text-xs">
         <thead className="bg-gray-200">
           <tr>

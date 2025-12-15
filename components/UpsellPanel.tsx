@@ -10,10 +10,11 @@ export default function UpsellPanel() {
   }, []);
 
   return (
-    <div
+<div
   id="upsell"
-  className="bg-green-50 p-4 rounded shadow"
+  className="bg-green-50 p-4 rounded shadow self-start"
 >
+
 
       <h3 className="font-semibold mb-2">Upsell / Cross-sell Opportunities</h3>
       <ul className="list-disc ml-4 text-sm">

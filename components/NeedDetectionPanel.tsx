@@ -10,10 +10,11 @@ export default function NeedDetectionPanel() {
   }, []);
 
   return (
-    <div
+   <div
   id="needs"
-  className="bg-white p-4 rounded shadow"
+  className="bg-white p-4 rounded shadow self-start"
 >
+
 
       <h3 className="font-semibold mb-2">Detected Customer Needs (AWS Comprehend)</h3>
       <ul className="list-disc ml-4 text-sm">
