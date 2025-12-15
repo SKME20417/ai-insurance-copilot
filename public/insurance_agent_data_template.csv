@@ -1,0 +1,51 @@
+CustomerID,Name,Age,PolicyInterest,AnnualIncome,Region,ExistingPolicy
+US001,John Miller,45,Health Insurance,95000,California,Employer Health Plan
+US002,Sarah Johnson,38,Life Insurance,120000,Texas,Term Life
+US003,Michael Brown,52,Retirement Planning,140000,Florida,401(k)
+US004,Emily Davis,29,Health Insurance,72000,New York,None
+US005,Robert Wilson,61,Medicare Supplement,88000,Arizona,Medicare Part A
+US006,Linda Martinez,41,Life Insurance,110000,California,Whole Life
+US007,David Anderson,35,Disability Insurance,98000,Washington,None
+US008,Jennifer Taylor,47,Health Insurance,125000,Illinois,Employer PPO
+US009,Christopher Thomas,55,Long-Term Care,135000,North Carolina,None
+US010,Patricia Moore,33,Health Insurance,68000,Colorado,None
+US011,Daniel Jackson,44,Life Insurance,115000,Georgia,Term Life
+US012,Barbara White,59,Retirement Planning,142000,New Jersey,IRA
+US013,James Harris,27,Health Insurance,64000,Massachusetts,None
+US014,Susan Martin,50,Long-Term Care,130000,Oregon,None
+US015,Matthew Thompson,39,Life Insurance,108000,Virginia,Employer Life
+US016,Karen Garcia,46,Health Insurance,99000,Nevada,Employer HMO
+US017,Anthony Martinez,58,Medicare Supplement,91000,Texas,Medicare Part B
+US018,Nancy Robinson,36,Disability Insurance,87000,Minnesota,None
+US019,Mark Clark,42,Health Insurance,104000,Utah,None
+US020,Donna Rodriguez,60,Retirement Planning,150000,California,401(k)
+US021,Paul Lewis,31,Health Insurance,71000,Ohio,None
+US022,Carol Lee,48,Life Insurance,123000,Washington,Whole Life
+US023,Steven Walker,53,Long-Term Care,138000,Wisconsin,None
+US024,Michelle Hall,34,Health Insurance,76000,Pennsylvania,None
+US025,Kevin Allen,40,Disability Insurance,101000,Arizona,None
+US026,Laura Young,45,Life Insurance,117000,Colorado,Term Life
+US027,Brian King,62,Medicare Supplement,93000,Florida,Medicare Advantage
+US028,Amanda Wright,28,Health Insurance,69000,Oregon,None
+US029,Jason Lopez,49,Health Insurance,129000,California,Employer PPO
+US030,Rebecca Hill,55,Retirement Planning,145000,Texas,IRA
+US031,Eric Scott,37,Life Insurance,97000,Idaho,None
+US032,Angela Green,43,Health Insurance,112000,Virginia,Employer HMO
+US033,Justin Adams,34,Disability Insurance,89000,Kansas,None
+US034,Sharon Baker,57,Long-Term Care,136000,Missouri,None
+US035,Ryan Gonzalez,41,Life Insurance,109000,Nevada,Term Life
+US036,Kathy Nelson,63,Medicare Supplement,92000,South Carolina,Medicare Part A
+US037,Brandon Carter,30,Health Insurance,67000,Indiana,None
+US038,Diane Mitchell,52,Retirement Planning,141000,New York,401(k)
+US039,Sean Perez,46,Health Insurance,121000,California,Employer PPO
+US040,Rachel Roberts,35,Life Insurance,94000,Colorado,None
+US041,Adam Turner,58,Long-Term Care,139000,Montana,None
+US042,Julie Phillips,44,Health Insurance,113000,New Mexico,Employer HMO
+US043,Jeremy Campbell,32,Disability Insurance,86000,Ohio,None
+US044,Martha Parker,61,Medicare Supplement,90500,Florida,Medicare Part B
+US045,Nathan Evans,39,Life Insurance,99000,Tennessee,None
+US046,Olivia Edwards,27,Health Insurance,65000,California,None
+US047,Patrick Collins,50,Retirement Planning,148000,New Jersey,IRA
+US048,Stephanie Stewart,42,Health Insurance,107000,Maryland,Employer PPO
+US049,Andrew Sanchez,36,Life Insurance,102000,Texas,None
+US050,Victoria Morris,54,Long-Term Care,137000,Washington,None
